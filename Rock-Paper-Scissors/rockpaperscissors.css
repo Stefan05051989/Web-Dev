@@ -1,0 +1,8 @@
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+}
+
