@@ -1,0 +1,11 @@
+/*
+selector { 
+property:
+value;
+}
+*/
+
+body{
+    box-sizing: border-box;
+    background-color: red;
+}
